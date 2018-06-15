@@ -1,4 +1,4 @@
-# 📺 Prisma Media 📺
+# The Price Hub
 
 ## Développeur Back-end PHP/Symfony
 
